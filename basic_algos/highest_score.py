@@ -5,6 +5,8 @@ for n in range(0, len(student_scores)):
 print(student_scores)
 # 🚨 Don't change the code above 👆
 
+
+
 highest = 0
 for score in student_scores:
     if score > highest:
